@@ -5,7 +5,7 @@ Facebook Cookie Generator Python Tool
 # Commmnad Installation
 
 >> apt install python -y;apt install git -y;pip install requests <br/>
->> git clone https://github.com/Wh1teKing/fb-cookie-generator <br/>
+>> git clone https://github.com/josifkhan/fb-cookie-generator <br/>
 
 >> cd fb-cookie-generator <br/>
 >> python login.py
